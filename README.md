@@ -49,7 +49,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 - ATSCAN
 - sqlmap
 - Shellnoob
-- commix
+- Commix
 - FTP Auto Bypass
 - JBoss Autopwn
 
@@ -86,7 +86,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 - Get server users
 - SQli Scanner
 - Ports Scan (range of ports)
-- ports Scan (common ports)
+- Ports Scan (common ports)
 - Get server Info
 - Bypass Cloudflare
 
@@ -122,7 +122,9 @@ Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
 
 Download [Python](https://www.python.org/downloads/release/python-2714/)
 
-Or Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshell/editor?project=&pli=1&shellonly=true)
+Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshell/editor?project=&pli=1&shellonly=true)
+
+Or Use Free Ubuntu VPS [c9.io](https://c9.io/)
 
 ## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) Usage ![docker logo](https://png.icons8.com/color/50/000000/docker.png)
 
@@ -167,3 +169,11 @@ docker-compose down # destroys instance
 # License
 
 [MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
+
+# Join the team 
+ Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
+ 
+ # Donate
+- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
+- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
+
